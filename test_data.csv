@@ -1,0 +1,81 @@
+sale_item,business_industry
+restaurant grocery grocery,Food
+grocery restaurant,Food
+clinic pharmacy medical,Healthcare
+cuisine cuisine cafe restaurant cafe,Food
+health health hospital pharmacy medical,Healthcare
+pharmacy hospital health medical clinic,Healthcare
+hospital pharmacy pharmacy health,Healthcare
+restaurant cafe cafe,Food
+cafe grocery food food,Food
+store fashion,Retail
+computer electronics tech,Technology
+restaurant cuisine,Food
+fashion clothing shopping retail,Retail
+hospital health clinic hospital hospital,Healthcare
+cafe grocery food,Food
+shopping shopping store store,Retail
+software tech,Technology
+hardware electronics software electronics tech,Technology
+software tech tech electronics computer,Technology
+tech tech,Technology
+cafe restaurant,Food
+tech electronics software electronics,Technology
+restaurant food restaurant,Food
+software,Technology
+pharmacy health clinic health,Healthcare
+electronics hardware electronics computer electronics,Technology
+medical health medical medical clinic,Healthcare
+food grocery grocery grocery,Food
+cuisine cuisine cuisine grocery cafe,Food
+tech hardware tech,Technology
+health hospital hospital medical clinic,Healthcare
+tech tech,Technology
+grocery cuisine,Food
+store fashion store retail store,Retail
+hospital hospital hospital,Healthcare
+medical clinic pharmacy hospital,Healthcare
+fashion retail fashion,Retail
+clinic health clinic medical,Healthcare
+clinic clinic health medical pharmacy,Healthcare
+medical health health pharmacy,Healthcare
+grocery cuisine cuisine cafe,Food
+hardware tech software,Technology
+tech software computer software,Technology
+store fashion,Retail
+shopping clothing,Retail
+pharmacy pharmacy hospital health,Healthcare
+clothing store,Retail
+shopping,Retail
+hardware software hardware hardware,Technology
+tech tech tech tech,Technology
+clinic clinic health health,Healthcare
+cuisine,Food
+cafe grocery food,Food
+tech computer tech software,Technology
+health clinic clinic pharmacy pharmacy,Healthcare
+shopping shopping clothing clothing fashion,Retail
+food grocery food cafe cafe,Food
+shopping clothing clothing,Retail
+restaurant cuisine restaurant grocery cafe,Food
+hospital health hospital hospital,Healthcare
+restaurant grocery grocery grocery,Food
+clinic pharmacy clinic health health,Healthcare
+clothing shopping shopping retail,Retail
+clothing,Retail
+store fashion shopping,Retail
+clinic clinic medical medical hospital,Healthcare
+software tech,Technology
+medical hospital health medical,Healthcare
+hardware tech computer,Technology
+hospital,Healthcare
+food,Food
+clothing fashion,Retail
+clinic,Healthcare
+electronics electronics,Technology
+store store shopping,Retail
+tech,Technology
+store,Retail
+cafe grocery grocery cafe,Food
+hospital,Healthcare
+clothing store clothing,Retail
