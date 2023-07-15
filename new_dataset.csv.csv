@@ -1,0 +1,424 @@
+sale_item,business_industry
+"Clothing,Shirt",Retail Store
+"Electronics,Smartphone",Retail Store
+"Home Goods,Pillow",Retail Store
+"Beauty,Lipstick",Retail Store
+"Electronics,Headphones",Retail Store
+"Clothing,Jeans",Retail Store
+"Home Goods,Blanket",Retail Store
+"Beauty,Mascara",Retail Store
+"Clothing,Dress",Retail Store
+"Electronics,Laptop",Retail Store
+"Home Goods,Cookware",Retail Store
+"Beauty,Perfume",Retail Store
+"Clothing,T-Shirt",Retail Store
+"Electronics,TV",Retail Store
+"Home Goods,Lamp",Retail Store
+"Beauty,Foundation",Retail Store
+"Clothing,Sweater",Retail Store
+"Electronics,Tablet",Retail Store
+"Home Goods,Curtains",Retail Store
+"Beauty,Eyeshadow",Retail Store
+"Clothing,Skirt",Retail Store
+"Electronics,Camera",Retail Store
+"Home Goods,Mattress",Retail Store
+"Beauty,Nail Polish",Retail Store
+"Clothing,Jacket",Retail Store
+"Electronics,Smartwatch",Retail Store
+"Home Goods,Decorative Pillows",Retail Store
+"Beauty,Face Mask",Retail Store
+"Clothing,Shorts",Retail Store
+"Electronics,Game Console",Retail Store
+"Home Goods,Dinnerware Set",Retail Store
+"Beauty,Concealer",Retail Store
+"Clothing,Blouse",Retail Store
+"Electronics,Wireless Earbuds",Retail Store
+"Home Goods,Throw Pillow",Retail Store
+"Beauty,Lip Gloss",Retail Store
+"Clothing,Suit",Retail Store
+"Electronics,Monitor",Retail Store
+"Home Goods,Coffee Maker",Retail Store
+"Beauty,Eyeliner",Retail Store
+"Clothing,Swimsuit",Retail Store
+"Electronics,Printer",Retail Store
+"Home Goods,Storage Bins",Retail Store
+"Beauty,Hair Spray",Retail Store
+"Clothing,Pants",Retail Store
+"Electronics,Bluetooth Speaker",Retail Store
+"Home Goods,Rugs",Retail Store
+"Beauty,Face Moisturizer",Retail Store
+"Clothing,Coat",Retail Store
+"Electronics,Smart Home Hub",Retail Store
+"Home Goods,Cutting Board",Retail Store
+"Beauty,Makeup Brushes",Retail Store
+"Clothing,Hat",Retail Store
+"Electronics,Portable Charger",Retail Store
+"Home Goods,Wall Clock",Retail Store
+"Beauty,Eyebrow Pencil",Retail Store
+"Clothing,Shoes",Retail Store
+"Electronics,Gaming Mouse",Retail Store
+"Home Goods,Vase",Retail Store
+"Beauty,Lip Balm",Retail Store
+"Clothing,Socks",Retail Store
+"Electronics,Wireless Mouse",Retail Store
+"Home Goods,Picture Frame",Retail Store
+"Beauty,Highlighter",Retail Store
+"Clothing,Gloves",Retail Store
+"Electronics,External Hard Drive",Retail Store
+"Home Goods,Plant Pot",Retail Store
+"Beauty,Eyelash Curler",Retail Store
+"Clothing,Underwear",Retail Store
+"Electronics,USB Flash Drive",Retail Store
+"Home Goods,Shower Curtain",Retail Store
+"Beauty,Blush",Retail Store
+"Clothing,Belt",Retail Store
+"Electronics,Smart Speaker",Retail Store
+"Home Goods,Iron",Retail Store
+"Beauty,Makeup Remover",Retail Store
+"Clothing,Sweatshirt",Retail Store
+"Electronics,Keyboard",Retail Store
+"Home Goods,Trash Can",Retail Store
+"Beauty,Face Cleanser",Retail Store
+"Clothing,Scarf",Retail Store
+"Electronics,Virtual Reality Headset",Retail Store
+"Home Goods,Laundry Basket",Retail Store
+"Beauty,Face Serum",Retail Store
+"Clothing,Pajamas",Retail Store
+"Electronics,Wireless Keyboard",Retail Store
+"Home Goods,Coasters",Retail Store
+"Beauty,Body Lotion",Retail Store
+"Clothing,Swim Trunks",Retail Store
+"Electronics,Smart Thermostat",Retail Store
+"Home Goods,Knife Set",Retail Store
+"Beauty,Eyeshadow Palette",Retail Store
+"Clothing,Tank Top",Retail Store
+"Electronics,Wireless Mouse",Retail Store
+"Home Goods,Placemats",Retail Store
+"Beauty,Lip Stain",Retail Store
+"Clothing,Slippers",Retail Store
+"Electronics,Power Bank",Retail Store
+"Home Goods,Wall Art",Retail Store
+"Beauty,Mascara Primer",Retail Store
+"Clothing,Blazer",Retail Store
+"Electronics,Bluetooth Earphones",Retail Store
+"Home Goods,Wine Glasses",Retail Store
+"Beauty,Face Powder",Retail Store
+"Supermarket,Milk",Food and Beverage
+"Cafe,Coffee",Food and Beverage
+"Bakery,Bread",Food and Beverage
+"Restaurant,Pizza",Food and Beverage
+"Supermarket,Eggs",Food and Beverage
+"Cafe,Tea",Food and Beverage
+"Bakery,Cake",Food and Beverage
+"Restaurant,Burger",Food and Beverage
+"Supermarket,Produce",Food and Beverage
+"Cafe,Smoothie",Food and Beverage
+"Bakery,Pastries",Food and Beverage
+"Restaurant,Sandwich",Food and Beverage
+"Supermarket,Cereal",Food and Beverage
+"Cafe,Espresso",Food and Beverage
+"Bakery,Cookies",Food and Beverage
+"Restaurant,Sushi",Food and Beverage
+"Supermarket,Snacks",Food and Beverage
+"Cafe,Hot Chocolate",Food and Beverage
+"Bakery,Muffins",Food and Beverage
+"Restaurant,Pasta",Food and Beverage
+"Supermarket,Meat",Food and Beverage
+"Cafe,Iced Coffee",Food and Beverage
+"Bakery,Donuts",Food and Beverage
+"Restaurant,Steak",Food and Beverage
+"Supermarket,Cheese",Food and Beverage
+"Cafe,Latte",Food and Beverage
+"Bakery,Bagels",Food and Beverage
+"Restaurant,Tacos",Food and Beverage
+"Supermarket,Condiments",Food and Beverage
+"Cafe,Cappuccino",Food and Beverage
+"Bakery,Pie",Food and Beverage
+"Restaurant,Seafood",Food and Beverage
+"Supermarket,Beverages",Food and Beverage
+"Cafe,Matcha",Food and Beverage
+"Bakery,Croissants",Food and Beverage
+"Restaurant,Chicken",Food and Beverage
+"Supermarket,Frozen Foods",Food and Beverage
+"Cafe,Macchiato",Food and Beverage
+"Bakery,Brownies",Food and Beverage
+"Restaurant,Salad",Food and Beverage
+"Supermarket,Dairy",Food and Beverage
+"Cafe,Frappe",Food and Beverage
+"Bakery,Pretzels",Food and Beverage
+"Restaurant,Indian Curry",Food and Beverage
+"Supermarket,Bakery Items",Food and Beverage
+"Cafe,Affogato",Food and Beverage
+"Bakery,Scones",Food and Beverage
+"Restaurant,Ramen",Food and Beverage
+"Supermarket,Pasta Sauce",Food and Beverage
+"Cafe,Americano",Food and Beverage
+"Bakery,Biscuits",Food and Beverage
+"Restaurant,Mexican Burrito",Food and Beverage
+"Supermarket,Spices",Food and Beverage
+"Cafe,Chai Tea",Food and Beverage
+"Bakery,Turnovers",Food and Beverage
+"Restaurant,Thai Curry",Food and Beverage
+"Supermarket,Fruits",Food and Beverage
+"Cafe,Flat White",Food and Beverage
+"Bakery,Cinnamon Rolls",Food and Beverage
+"Restaurant,Chinese Stir Fry",Food and Beverage
+"Supermarket,Vegetables",Food and Beverage
+"Cafe,Iced Tea",Food and Beverage
+"Bakery,Danish",Food and Beverage
+"Restaurant,Greek Gyro",Food and Beverage
+"Supermarket,Frozen Desserts",Food and Beverage
+"Cafe,Hot Tea",Food and Beverage
+"Bakery,Artisan Bread",Food and Beverage
+"Restaurant,Barbecue Ribs",Food and Beverage
+"Supermarket,Breakfast Cereal",Food and Beverage
+"Cafe,Ice Blended",Food and Beverage
+"Bakery,Strudel",Food and Beverage
+"Restaurant,Italian Pizza",Food and Beverage
+"Supermarket,Snack Bars",Food and Beverage
+"Cafe,Cold Brew",Food and Beverage
+"Bakery,Naan Bread",Food and Beverage
+"Restaurant,Vegetarian Curry",Food and Beverage
+"Supermarket,Juices",Food and Beverage
+"Cafe,Mocha",Food and Beverage
+"Bakery,Cupcakes",Food and Beverage
+"Restaurant,Japanese Tempura",Food and Beverage
+"Supermarket,Chips",Food and Beverage
+"Cafe,Frappuccino",Food and Beverage
+"Bakery,Apple Pie",Food and Beverage
+"Restaurant,French Onion Soup",Food and Beverage
+"Supermarket,Yogurt",Food and Beverage
+"Cafe,Acai Bowl",Food and Beverage
+"Bakery,Éclair",Food and Beverage
+"Restaurant,Korean Bibimbap",Food and Beverage
+"Supermarket,Baking Supplies",Food and Beverage
+"Cafe,Iced Latte",Food and Beverage
+"Bakery,Pumpernickel Bread",Food and Beverage
+"Restaurant,Mediterranean Hummus",Food and Beverage
+"Supermarket,Energy Drinks",Food and Beverage
+"Cafe,Hot Chocolate",Food and Beverage
+"Bakery,Focaccia",Food and Beverage
+"Restaurant,Spanish Paella",Food and Beverage
+"Supermarket,Ice Cream",Food and Beverage
+"Cafe,Vanilla Latte",Food and Beverage
+"Bakery,Whole Grain Bread",Food and Beverage
+"Restaurant,Vietnamese Pho",Food and Beverage
+"Supermarket,Canned Goods",Food and Beverage
+"Cafe,Mango Smoothie",Food and Beverage
+"Bakery,Banana Bread",Food and Beverage
+"Restaurant,Indian Biryani",Food and Beverage
+"Supermarket,Coffee Beans",Food and Beverage
+"Cafe,Green Tea Latte",Food and Beverage
+"Bakery,Pita Bread",Food and Beverage
+"Restaurant,Shawarma Wrap",Food and Beverage
+"Supermarket,Water Bottles",Food and Beverage
+"Cafe,Caramel Macchiato",Food and Beverage
+"Bakery,Strawberry Shortcake",Food and Beverage
+"Restaurant,Mexican Enchiladas",Food and Beverage
+"Supermarket,Chocolate Bars",Food and Beverage
+"Cafe,Iced Matcha Latte",Food and Beverage
+"Bakery,Rye Bread",Food and Beverage
+"Restaurant,Fish and Chips",Food and Beverage
+"Supermarket,Soda",Food and Beverage
+"Cafe,Chai Latte",Food and Beverage
+"Bakery,Gluten-Free Bread",Food and Beverage
+"Restaurant,Peruvian Ceviche",Food and Beverage
+"Pharmacy,Painkillers",Health Care
+"Fitness Equipment,Dumbbells",Health Care
+"Pharmacy,Vitamins",Health Care
+"Medical Supplies,Wheelchair",Health Care
+"Pharmacy,Allergy Medication",Health Care
+"Fitness Equipment,Yoga Mat",Health Care
+"Pharmacy,Cough Syrup",Health Care
+"Medical Supplies,Blood Pressure Monitor",Health Care
+"Pharmacy,First Aid Kit",Health Care
+"Fitness Equipment,Treadmill",Health Care
+"Pharmacy,Acne Cream",Health Care
+"Medical Supplies,Incontinence Pads",Health Care
+"Pharmacy,Antibiotics",Health Care
+"Fitness Equipment,Resistance Bands",Health Care
+"Pharmacy,Sleeping Pills",Health Care
+"Medical Supplies,Compression Stockings",Health Care
+"Pharmacy,Digestive Enzymes",Health Care
+"Fitness Equipment,Exercise Ball",Health Care
+"Pharmacy,Flu Vaccine",Health Care
+"Medical Supplies,Orthopedic Brace",Health Care
+"Pharmacy,Anti-Inflammatory Cream",Health Care
+"Fitness Equipment,Jump Rope",Health Care
+"Pharmacy,Inhaler",Health Care
+"Medical Supplies,Hot/Cold Therapy Pack",Health Care
+"Pharmacy,Antacid",Health Care
+"Fitness Equipment,Exercise Bike",Health Care
+"Pharmacy,Nasal Spray",Health Care
+"Medical Supplies,Disposable Gloves",Health Care
+"Pharmacy,Diabetes Test Strips",Health Care
+"Fitness Equipment,Weight Bench",Health Care
+"Pharmacy,Stomach Relief Tablets",Health Care
+"Medical Supplies,Walking Cane",Health Care
+"Pharmacy,Contraceptives",Health Care
+"Fitness Equipment,Resistance Bands",Health Care
+"Pharmacy,Sunscreen",Health Care
+"Medical Supplies,Medical Tape",Health Care
+"Pharmacy,Anti-Anxiety Medication",Health Care
+"Fitness Equipment,Yoga Blocks",Health Care
+"Pharmacy,Eye Drops",Health Care
+"Medical Supplies,Digital Thermometer",Health Care
+"Pharmacy,Anti-Depressants",Health Care
+"Fitness Equipment,Weighted Vest",Health Care
+"Pharmacy,Band-Aids",Health Care
+"Medical Supplies,Surgical Masks",Health Care
+"Pharmacy,Topical Cream",Health Care
+"Fitness Equipment,Exercise Mat",Health Care
+"Pharmacy,Prescription Medication",Health Care
+"Medical Supplies,Hand Sanitizer",Health Care
+"Pharmacy,Sleep Aid",Health Care
+"Fitness Equipment,Kettlebell",Health Care
+"Pharmacy,Hair Loss Treatment",Health Care
+"Medical Supplies,Back Brace",Health Care
+"Pharmacy,Nicotine Patch",Health Care
+"Fitness Equipment,Resistance Bands",Health Care
+"Pharmacy,Anti-Itch Cream",Health Care
+"Medical Supplies,Adhesive Bandages",Health Care
+"Pharmacy,Allergy Medication",Health Care
+"Fitness Equipment,Dumbbells",Health Care
+"Pharmacy,Joint Supplements",Health Care
+"Medical Supplies,Walking Cane",Health Care
+"Pharmacy,Cold Sore Treatment",Health Care
+"Fitness Equipment,Treadmill",Health Care
+"Pharmacy,Headache Relief Tablets",Health Care
+"Medical Supplies,Compression Socks",Health Care
+"Pharmacy,Anti-Diarrheal Medication",Health Care
+"Fitness Equipment,Yoga Mat",Health Care
+"Pharmacy,Anti-Fungal Cream",Health Care
+"Medical Supplies,First Aid Kit",Health Care
+"Pharmacy,Anti-Nausea Medication",Health Care
+"Fitness Equipment,Resistance Bands",Health Care
+"Pharmacy,Constipation Relief Tablets",Health Care
+"Medical Supplies,Blood Pressure Monitor",Health Care
+"Pharmacy,Anti-Gas Medication",Health Care
+"Fitness Equipment,Exercise Ball",Health Care
+"Pharmacy,Nasal Decongestant Spray",Health Care
+"Medical Supplies,Orthopedic Brace",Health Care
+"Pharmacy,Heartburn Relief Tablets",Health Care
+"Fitness Equipment,Jogging Stroller",Health Care
+"Pharmacy,Sore Throat Lozenges",Health Care
+"Medical Supplies,Hot/Cold Therapy Pack",Health Care
+"Pharmacy,Antacid",Health Care
+"Fitness Equipment,Jump Rope",Health Care
+"Pharmacy,Diabetic Test Strips",Health Care
+"Medical Supplies,Disposable Gloves",Health Care
+"Pharmacy,Allergy Eye Drops",Health Care
+"Fitness Equipment,Weight Bench",Health Care
+"Pharmacy,Anti-Itch Lotion",Health Care
+"Medical Supplies,Medical Tape",Health Care
+"Pharmacy,Anti-Depressants",Health Care
+"Fitness Equipment,Yoga Blocks",Health Care
+"Pharmacy,Ear Drops",Health Care
+"Medical Supplies,Digital Thermometer",Health Care
+"Pharmacy,Prenatal Vitamins",Health Care
+"Fitness Equipment,Exercise Mat",Health Care
+"Pharmacy,Anti-Inflammatory Cream",Health Care
+"Medical Supplies,Surgical Masks",Health Care
+"Pharmacy,Anti-Dandruff Shampoo",Health Care
+"Fitness Equipment,Dumbbells",Health Care
+"Pharmacy,Anti-Aging Cream",Health Care
+"Medical Supplies,Hand Sanitizer",Health Care
+"Pharmacy,Aspirin",Health Care
+"Healthcare Facility,Stethoscope",Health Care
+"Pharmacy,Ibuprofen",Health Care
+"Pharmacy,Antibiotics",Health Care
+"Healthcare Facility,Medical Gloves",Health Care
+"Pharmacy,Cough Syrup",Health Care
+"Pharmacy,Band-Aids",Health Care
+"Healthcare Facility,Wheelchair",Health Care
+"Pharmacy,Prescription Medication",Health Care
+"Pharmacy,Thermometer",Health Care
+"Healthcare Facility,Face Mask",Health Care
+"Pharmacy,Allergy Medication",Health Care
+"Pharmacy,Hand Sanitizer",Health Care
+"Healthcare Facility,Surgical Mask",Health Care
+"Pharmacy,Antacid",Health Care
+"Pharmacy,Vitamins",Health Care
+"Healthcare Facility,Blood Pressure Monitor",Health Care
+"Pharmacy,Sleeping Pills",Health Care
+"Pharmacy,Eye Drops",Health Care
+"Healthcare Facility,Medical Scissors",Health Care
+"Pharmacy,Nasal Spray",Health Care
+"Pharmacy,Painkillers",Health Care
+"Healthcare Facility,Medical Gown",Health Care
+"Pharmacy,First Aid Kit",Health Care
+"Pharmacy,Allergy Medication",Health Care
+"Healthcare Facility,Oxygen Tank",Health Care
+"Pharmacy,Anti-Inflammatory Cream",Health Care
+"Pharmacy,Digestive Enzymes",Health Care
+"Healthcare Facility,Exam Table",Health Care
+"Pharmacy,Anti-Anxiety Medication",Health Care
+"Pharmacy,Diabetes Test Strips",Health Care
+"Healthcare Facility,IV Stand",Health Care
+"Pharmacy,Anti-Depressants",Health Care
+"Pharmacy,Contraceptives",Health Care
+"Healthcare Facility,Pulse Oximeter",Health Care
+"Pharmacy,Anti-Itch Cream",Health Care
+"Pharmacy,Condoms",Health Care
+"Healthcare Facility,Lab Coat",Health Care
+"Pharmacy,Headache Relief Tablets",Health Care
+"Pharmacy,Anti-Nausea Medication",Health Care
+"Healthcare Facility,Scale",Health Care
+"Pharmacy,Constipation Relief Tablets",Health Care
+"Pharmacy,Anti-Gas Medication",Health Care
+"Healthcare Facility,Medical Tray",Health Care
+"Pharmacy,Heartburn Relief Tablets",Health Care
+"Pharmacy,Anti-Diarrheal Medication",Health Care
+"Healthcare Facility,Specimen Cup",Health Care
+"Pharmacy,Antacid",Health Care
+"Pharmacy,Joint Supplements",Health Care
+"Healthcare Facility,Surgical Gloves",Health Care
+"Pharmacy,Stomach Relief Tablets",Health Care
+"Pharmacy,Anti-Itch Lotion",Health Care
+"Healthcare Facility,Cast",Health Care
+"Pharmacy,Anti-Dandruff Shampoo",Health Care
+"Pharmacy,Anti-Fungal Cream",Health Care
+"Healthcare Facility,X-ray Machine",Health Care
+"Pharmacy,Anti-Diarrheal Medication",Health Care
+"Pharmacy,Prenatal Vitamins",Health Care
+"Healthcare Facility,Ultrasound Machine",Health Care
+"Pharmacy,Anti-Aging Cream",Health Care
+"Pharmacy,Anti-Wrinkle Cream",Health Care
+"Healthcare Facility,Defibrillator",Health Care
+"Pharmacy,Anti-Acne Cream",Health Care
+"Pharmacy,Eye Cream",Health Care
+"Healthcare Facility,Wheelchair Ramp",Health Care
+"Pharmacy,Laxative",Health Care
+"Pharmacy,Hair Growth Supplement",Health Care
+"Healthcare Facility,Rehabilitation Equipment",Health Care
+"Pharmacy,Anti-Smoking Patch",Health Care
+"Pharmacy,Sunscreen",Health Care
+"Healthcare Facility,Defibrillator Pads",Health Care
+"Pharmacy,Anti-Cellulite Cream",Health Care
+"Pharmacy,Anti-Stretch Mark Cream",Health Care
+"Healthcare Facility,Patient Bed",Health Care
+"Pharmacy,Anti-Aging Serum",Health Care
+"Pharmacy,Scar Cream",Health Care
+"Healthcare Facility,Exam Light",Health Care
+"Pharmacy,Anti-Itch Spray",Health Care
+"Pharmacy,Baby Sunscreen",Health Care
+"Healthcare Facility,IV Pole",Health Care
+"Pharmacy,Joint Pain Cream",Health Care
+"Pharmacy,Stretch Mark Cream",Health Care
+"Healthcare Facility,Crash Cart",Health Care
+"Pharmacy,Anti-Aging Moisturizer",Health Care
+"Pharmacy,Hand Cream",Health Care
+"Healthcare Facility,Patient Monitor",Health Care
+"Pharmacy,Anti-Acne Cleanser",Health Care
+"Pharmacy,Lip Balm",Health Care
+"Healthcare Facility,Medical Cart",Health Care
+"Pharmacy,First Aid Spray",Health Care
+"Pharmacy,Hand Soap",Health Care
+"Healthcare Facility,Privacy Curtain",Health Care
+"Pharmacy,Anti-Acne Mask",Health Care
+"Pharmacy,Foot Cream",Health Care
+"Healthcare Facility,Walker",Health Care
+"Pharmacy,Hand Sanitizer",Health Care
+"Pharmacy,Sleep Aid",Health Care
+"Healthcare Facility,Wound Dressing",Health Care
+"Pharmacy,Anti-Cellulite Gel",Health Care

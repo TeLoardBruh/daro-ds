@@ -706,8 +706,11 @@ accuracy = model.score(X_test_vectorized, y_test)
 print('Accuracy:', accuracy)
 
 # Predict industry for new item descriptions
-new_items = ['smoke honey beef dish']  # Replace with your own item descriptions
+new_items = ['smoke h']  # Replace with your own item descriptions
 new_items_vectorized = vectorizer.transform(new_items)
+print("========== new_items_vectorized ==========")
+print(new_items_vectorized)
+print("========== ========== ========== ========== ")
 predicted_industries = model.predict(new_items_vectorized)
 
 print(f"Item: {new_items}, Industry: {predicted_industries}")
